@@ -8,9 +8,9 @@ I build scalable, user‑focused web applications with a strong emphasis on clea
 
 ## 🚀 Tech Stack & Expertise
 
-**Frontend:** React.js, JavaScript, Tailwind CSS, DaisyUI
-**Backend:** Node.js, Express.js, MongoDB, Mongoose
-**DevOps / Tools:** Git, GitHub, Nginx, VPS Deployment, Firebase, Vercel, Netlify
+**Frontend:** React.js, JavaScript, Tailwind CSS, DaisyUI\
+**Backend:** Node.js, Express.js, MongoDB, Mongoose\
+**DevOps / Tools:** Git, GitHub, Nginx, VPS Deployment, Firebase, Vercel, Netlify\
 **Other:** REST APIs, JWT Auth, Dashboard Systems, Subdomain Routing
 
 <p>
@@ -21,11 +21,11 @@ I build scalable, user‑focused web applications with a strong emphasis on clea
 
 ## 🧩 What I Do
 
-* Build full-stack applications with clean code & solid architecture
-* Create responsive, modern UIs with React + Tailwind
-* Work with multi-role dashboards, authentication systems, API integration
-* Deploy production apps on VPS using Nginx
-* Solve problems & improve backend patterns
+- Build full-stack applications with clean code & solid architecture
+- Create responsive, modern UIs with React + Tailwind
+- Work with multi-role dashboards, authentication systems, API integration
+- Deploy production apps on VPS using Nginx
+- Solve problems & improve backend patterns
 
 ---
 
@@ -47,18 +47,18 @@ Developed user profiles, content modules, and handled full VPS deployment.
 
 ## 🌱 Currently Learning
 
-* TypeScript & Next.js
-* Advanced backend architecture
-* Scalable system design
-* PostgreSQL
+- TypeScript & Next.js
+- Advanced backend architecture
+- Scalable system design
+- PostgreSQL
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: **[@ar-saad](https://github.com/ar-saad)**
-* X (Twitter): **[@arsaad_dev](https://x.com/arsaad_dev)**
-* Portfolio: **[https://abdur-rahman-100912.netlify.app](https://abdur-rahman-100912.netlify.app)**
+- GitHub: **[@ar-saad](https://github.com/ar-saad)**
+- X (Twitter): **[@arsaad_dev](https://x.com/arsaad_dev)**
+- Portfolio: **[https://abdur-rahman-100912.netlify.app](https://abdur-rahman-100912.netlify.app)**
 
 ---
 
