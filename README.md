@@ -8,8 +8,8 @@ I build scalable, user‑focused web applications with a strong emphasis on clea
 
 ## 🚀 Tech Stack & Expertise
 
-**Frontend:** React.js, JavaScript, Tailwind CSS, DaisyUI\
-**Backend:** Node.js, Express.js, MongoDB, Mongoose\
+**Frontend:** React.js, JavaScript, TypeScript, Tailwind CSS, DaisyUI, Shadcn\
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, NeonDB, PostgreSQL\
 **DevOps / Tools:** Git, GitHub, Nginx, VPS Deployment, Firebase, Vercel, Netlify\
 **Other:** REST APIs, JWT Auth, Dashboard Systems, Subdomain Routing
 
