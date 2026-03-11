@@ -58,7 +58,7 @@ Developed user profiles, content modules, and handled full VPS deployment.
 
 - GitHub: **[@ar-saad](https://github.com/ar-saad)**
 - X (Twitter): **[@arsaad_dev](https://x.com/arsaad_dev)**
-- Portfolio: **[https://abdur-rahman-100912.netlify.app](https://abdur-rahman-100912.netlify.app)**
+- Portfolio: **[https://ar-saad.vercel.app/](https://ar-saad.vercel.app/)**
 
 ---
 
