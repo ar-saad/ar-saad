@@ -87,15 +87,6 @@ Worked across three client-facing products in a team environment:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ar-saad&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-saad&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm actively looking for full-stack roles where I can contribute from day one. If you're building something interesting, let's talk.
